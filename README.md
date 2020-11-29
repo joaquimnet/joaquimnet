@@ -11,6 +11,7 @@
 
 | Project                                                    | Description                                           | Status          |
 | ---------------------------------------------------------- | ----------------------------------------------------- | --------------- |
+| [My Home Page](https://joaquimnet.github.io)               | My home page, it also has my blog in it.              | ✅ active       |
 | [Voice](https://github.com/joaquimnet/voice)               | A text to speech discord bot.                         | ✅ active        |
 | [imager](https://github.com/joaquimnet/imager)             | A discord bot that can perform image manipulation.    | ⏸️🚧 on hold    |
 | [hanabi](https://github.com/joaquimnet/hanabi)             | Mental health discord bot.                            | ⏸️ on hold      |
