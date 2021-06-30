@@ -1209,7 +1209,7 @@
           </h2>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            1128 Commits
+            1133 Commits
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -1320,14 +1320,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="284.73662987983795" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="284.73662987983795" y="0" width="80.72793255541288" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="365.46456243525085" y="0" width="46.62808081935992" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="412.0926432546108" y="0" width="38.389977605320134" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="450.4826208599309" y="0" width="3.658049987903151" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="454.14067084783403" y="0" width="2.3958957561771475" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="456.53656660401117" y="0" width="1.8291676747374361" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="458.36573427874856" y="0" width="1.6342657212513727" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="285.6921657007412" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="285.6921657007412" y="0" width="80.29193693865993" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="365.98410263940116" y="0" width="46.371825987816635" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="412.3559286272178" y="0" width="38.17899707446119" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="450.53492570167896" y="0" width="3.6379463729364834" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="454.17287207461544" y="0" width="2.3827285862528056" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="456.55560066086827" y="0" width="1.8191150831205911" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="458.3747157439888" y="0" width="1.6252842560111742" height="8" fill="#b07219"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1337,7 +1337,7 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>61.9%</div>
+                                <div>62.11%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1346,7 +1346,7 @@
                       HTML
                     </div>
                             <small>
-                                <div>10.14%</div>
+                                <div>10.08%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1355,7 +1355,7 @@
                       SCSS
                     </div>
                             <small>
-                                <div>0.8%</div>
+                                <div>0.79%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1375,7 +1375,7 @@
                       TypeScript
                     </div>
                             <small>
-                                <div>17.55%</div>
+                                <div>17.45%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1384,7 +1384,7 @@
                       CSS
                     </div>
                             <small>
-                                <div>8.35%</div>
+                                <div>8.3%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1402,7 +1402,7 @@
                       Java
                     </div>
                             <small>
-                                <div>0.36%</div>
+                                <div>0.35%</div>
                             </small>
                         </div>
                     </section>
@@ -1415,6 +1415,48 @@
     </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 3 commits in <span class="repo">joaquimnet/sensum</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#fea20bd</span>
+                                        <span class="message">Merge branch 'master' of https://github.com/joaquimnet/sensum</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 2 commits in <span class="repo">joaquimnet/hanabi</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#fc3a809</span>
+                                        <span class="message">add notification system</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d1bd438</span>
+                                        <span class="message">add pickmessage command</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1466,54 +1508,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 2 commits in <span class="repo">joaquimnet/hanabi</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#4a4b693</span>
-                                        <span class="message">0.8.0</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#a9464df</span>
-                                        <span class="message">add achievements system</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">joaquimnet/hanabi</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#c5c4529</span>
-                                        <span class="message">update sensum</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Wed, 30 Jun 2021 04:05:29  with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Wed, 30 Jun 2021 05:03:26  with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
