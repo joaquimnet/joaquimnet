@@ -1354,9 +1354,9 @@
                     <rect mask="url(#languages-bar)" x="269.72332194213453" y="0" width="73.42783684011869" height="8" fill="#2b7489"/>
                     <rect mask="url(#languages-bar)" x="343.1511587822532" y="0" width="42.407531844860785" height="8" fill="#e34c26"/>
                     <rect mask="url(#languages-bar)" x="385.55869062711395" y="0" width="34.915101998904326" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="420.4737926260183" y="0" width="20.89025124392004" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="420.4737926260183" y="0" width="20.89025124392004" height="8" fill="#222c37"/>
                     <rect mask="url(#languages-bar)" x="441.3640438699383" y="0" width="11.677124114417511" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="453.0411679843558" y="0" width="3.6318910687697783" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="453.0411679843558" y="0" width="3.6318910687697783" height="8" fill="#aace60"/>
                     <rect mask="url(#languages-bar)" x="456.6730590531256" y="0" width="3.32694094687436" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="row fill-width">
@@ -1381,7 +1381,7 @@
                         </div>
                         <div class="field language details">
                             <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#222c37" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                       ShaderLab
                     </div>
                             <small>
@@ -1390,7 +1390,7 @@
                         </div>
                         <div class="field language details">
                             <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#aace60" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                       HLSL
                     </div>
                             <small>
@@ -1540,7 +1540,7 @@ This reverts commit 9a216c41e153aedb4bff11ba2a8ea6bf34482466.</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 02/08/2021, 10:11  with lowlighter/metrics@3.11.0</span>
+                <span>Last updated 02/08/2021, 11:06  with lowlighter/metrics@3.11.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
