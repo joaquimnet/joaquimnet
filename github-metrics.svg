@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2807 Commits
+                            2808 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="253.5748561400201" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="253.5748561400201" y="0" width="70.78244600038435" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="324.35730214040444" y="0" width="61.51135832103528" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="385.86866046143973" y="0" width="49.044494160390734" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="434.9131546218305" y="0" width="15.009141046234621" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="449.9222956680651" y="0" width="4.276269176798204" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="454.1985648448633" y="0" width="3.0006272911537444" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="457.1991921360171" y="0" width="2.8008078639829725" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="252.2160287538439" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="252.2160287538439" y="0" width="70.57183954662946" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="322.78786830047335" y="0" width="61.15655631622019" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="383.94442461669354" y="0" width="51.113432760491584" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="435.0578573771851" y="0" width="14.922567225088232" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="449.9804246022734" y="0" width="4.251603344040319" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="454.2320279463137" y="0" width="2.983319453907689" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="457.2153474002214" y="0" width="2.78465259977865" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -238,7 +238,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>55.12%</div>
+                                <div>54.83%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -249,7 +249,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>13.37%</div>
+                                <div>13.29%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -260,7 +260,7 @@
                                 C#
                             </div>
                             <small>
-                                <div>3.26%</div>
+                                <div>3.24%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -284,7 +284,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>15.39%</div>
+                                <div>15.34%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -295,7 +295,7 @@
                                 CSS
                             </div>
                             <small>
-                                <div>10.66%</div>
+                                <div>11.11%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -306,7 +306,7 @@
                                 SCSS
                             </div>
                             <small>
-                                <div>0.93%</div>
+                                <div>0.92%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -332,6 +332,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">joaquimnet/tacti</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e388dd4</div>
+                                        <div class="message">feat: text component, css and jest</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -420,32 +440,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">joaquimnet/rust-playground</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#021a8fa</div>
-                                        <div class="message">refactor(cli-news): refactors and async</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Mar 2022, 21:04:56  with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 8 Mar 2022, 22:07:25  with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
