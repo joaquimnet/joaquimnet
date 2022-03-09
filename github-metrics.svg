@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="911" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="928" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2809 Commits
+                            2811 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="252.2160287538439" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="252.2160287538439" y="0" width="70.57183954662946" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="322.78786830047335" y="0" width="61.15655631622019" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="383.94442461669354" y="0" width="51.113432760491584" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="435.0578573771851" y="0" width="14.922567225088232" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="449.9804246022734" y="0" width="4.251603344040319" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="454.2320279463137" y="0" width="2.983319453907689" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="457.2153474002214" y="0" width="2.78465259977865" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="252.13123894264294" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="252.13123894264294" y="0" width="70.78225578728383" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="322.91349472992675" y="0" width="61.100563601053445" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="384.0140583309802" y="0" width="51.066635163403966" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="435.08069349438415" y="0" width="14.908904666132647" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="449.9895981605168" y="0" width="4.247710730894904" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="454.23730889141166" y="0" width="2.980588035291338" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="457.217896926703" y="0" width="2.782103073296951" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -238,7 +238,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>54.83%</div>
+                                <div>54.81%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -249,7 +249,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>13.29%</div>
+                                <div>13.28%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -284,7 +284,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>15.34%</div>
+                                <div>15.39%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -295,7 +295,7 @@
                                 CSS
                             </div>
                             <small>
-                                <div>11.11%</div>
+                                <div>11.1%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -317,7 +317,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>0.61%</div>
+                                <div>0.6%</div>
                             </small>
                         </div>
                     </section>
@@ -332,6 +332,30 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">joaquimnet/tacti</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#308fd65</div>
+                                        <div class="message">chore: docs command</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#814bb79</div>
+                                        <div class="message">feat: tests and storybook</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -420,32 +444,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">joaquimnet/rust-playground</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c6f68d2</div>
-                                        <div class="message">add challenges and resources</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Mar 2022, 13:18:06  with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 9 Mar 2022, 14:12:07  with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
