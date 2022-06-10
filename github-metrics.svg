@@ -220,7 +220,7 @@
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="236.9600375788068" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="236.9600375788068" y="0" width="92.21655434433781" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="236.9600375788068" y="0" width="92.21655434433781" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="329.1765919231446" y="0" width="56.97885286292535" height="8" fill="#e34c26"/>
                     <rect mask="url(#languages-bar)" x="386.15544478606995" y="0" width="51.462014865886104" height="8" fill="#563d7c"/>
                     <rect mask="url(#languages-bar)" x="437.6174596519561" y="0" width="13.391189684979866" height="8" fill="#178600"/>
@@ -279,7 +279,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 TypeScript
                             </div>
@@ -389,7 +389,7 @@ The following vulnerabilities are fixed with an upgrade:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jun 2022, 10:07:42  with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 10 Jun 2022, 11:07:11  with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
