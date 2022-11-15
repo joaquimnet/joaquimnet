@@ -19,7 +19,7 @@ jobs:
           plugin_languages_ignored: ShaderLab, HLSL
           plugin_languages_indepth: true
           plugin_languages_sections: most-used, recently-used
-          plugin_languages_recent_load: 999
+          plugin_languages_recent_load: 1000
           plugin_languages_recent_days: 365
           plugin_activity: yes
           plugin_activity_limit: 5           # Limit to 5 events
