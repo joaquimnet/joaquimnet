@@ -325,7 +325,9 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>No recent push activity found</small>
+                <small>No recent push activity found
+                
+                  over last 89 days</small>
                 <div class="row fill-width">
                     <section>
                     </section>
@@ -353,7 +355,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Dec 2024, 15:01:59  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Dec 2024, 16:01:55  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
